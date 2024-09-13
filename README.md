@@ -25,7 +25,11 @@ The wireframe consists of:
 You can use this wireframe as a reference or a starting point for developing a fitness tracking app. It provides a clean layout and key functionalities that you can adapt to your own needs.
 
 ## Contributing
-If you want to suggest improvements or contribute to this project, feel free to create a pull request or raise an issue.
+![image](https://github.com/user-attachments/assets/d609731d-6701-4c6a-a1cd-b3dc2915918b)
+
+![image](https://github.com/user-attachments/assets/eb2d8523-1714-40b6-8c17-39c15d64f90a)
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
