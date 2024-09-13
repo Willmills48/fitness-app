@@ -13,16 +13,10 @@ The wireframe consists of:
 ## Screenshots
 ![Fitness Tracker Wireframe](https://github.com/YourUsername/YourRepository/blob/main/fitness_tracker_wireframe_image.png)
 
-## Tools Used
-- [Justinmind](https://www.justinmind.com/) for wireframing
-- [GitHub](https://github.com/) for project management
 
 ## Download Files
 - [Word Document - Fitness Tracker Wireframe](https://github.com/YourUsername/YourRepository/blob/main/Fitness_Tracker_App_Wireframe.docx)
 - [PNG - Fitness Tracker Wireframe](https://github.com/YourUsername/YourRepository/blob/main/fitness_tracker_wireframe_image.png)
-
-## Usage
-You can use this wireframe as a reference or a starting point for developing a fitness tracking app. It provides a clean layout and key functionalities that you can adapt to your own needs.
 
 ## Contributing
 ![image](https://github.com/user-attachments/assets/d609731d-6701-4c6a-a1cd-b3dc2915918b)
